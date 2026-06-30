@@ -1,0 +1,270 @@
+{
+  "dataset": "Global Macroeconomic Indicators",
+  "source": "World Economic Research Institute",
+  "version": "2024-Q4",
+  "last_updated": "2025-01-15",
+  "currency_note": "All monetary values in USD billions unless otherwise stated",
+  "regions": [
+    {
+      "region_id": "NA",
+      "region_name": "North America",
+      "countries": [
+        {
+          "country": "United States",
+          "iso_code": "USA",
+          "gdp_2024": 28400,
+          "gdp_growth_2024_pct": 2.8,
+          "gdp_growth_2023_pct": 2.5,
+          "inflation_rate_2024_pct": 3.1,
+          "inflation_rate_2023_pct": 4.1,
+          "unemployment_rate_2024_pct": 3.9,
+          "central_bank_rate_pct": 5.25,
+          "10yr_treasury_yield_pct": 4.42,
+          "fiscal_deficit_pct_gdp": -5.8,
+          "public_debt_pct_gdp": 123.4,
+          "current_account_pct_gdp": -3.2,
+          "fdi_inflows_2024": 385,
+          "stock_market": {
+            "index": "S&P 500",
+            "2024_return_pct": 24.2,
+            "pe_ratio": 22.3,
+            "market_cap": 43200
+          },
+          "sector_gdp_breakdown": {
+            "services_pct": 77.8,
+            "industry_pct": 18.2,
+            "agriculture_pct": 1.0,
+            "government_pct": 3.0
+          },
+          "tech_spending_bn": 1820,
+          "ai_investment_2024_bn": 67.2,
+          "cloud_market_size_bn": 390
+        },
+        {
+          "country": "Canada",
+          "iso_code": "CAN",
+          "gdp_2024": 2140,
+          "gdp_growth_2024_pct": 1.4,
+          "gdp_growth_2023_pct": 1.1,
+          "inflation_rate_2024_pct": 2.7,
+          "inflation_rate_2023_pct": 3.9,
+          "unemployment_rate_2024_pct": 6.3,
+          "central_bank_rate_pct": 3.75,
+          "10yr_bond_yield_pct": 3.81,
+          "fiscal_deficit_pct_gdp": -1.4,
+          "public_debt_pct_gdp": 106.4,
+          "current_account_pct_gdp": -1.1,
+          "fdi_inflows_2024": 58,
+          "stock_market": {
+            "index": "S&P/TSX",
+            "2024_return_pct": 18.0,
+            "pe_ratio": 15.8,
+            "market_cap": 3200
+          },
+          "sector_gdp_breakdown": {
+            "services_pct": 69.5,
+            "industry_pct": 26.4,
+            "agriculture_pct": 1.8,
+            "government_pct": 2.3
+          }
+        }
+      ]
+    },
+    {
+      "region_id": "EU",
+      "region_name": "Europe",
+      "countries": [
+        {
+          "country": "Germany",
+          "iso_code": "DEU",
+          "gdp_2024": 4590,
+          "gdp_growth_2024_pct": -0.3,
+          "gdp_growth_2023_pct": -0.2,
+          "inflation_rate_2024_pct": 2.2,
+          "inflation_rate_2023_pct": 5.9,
+          "unemployment_rate_2024_pct": 3.4,
+          "central_bank_rate_pct": 3.15,
+          "10yr_bond_yield_pct": 2.37,
+          "fiscal_deficit_pct_gdp": -2.2,
+          "public_debt_pct_gdp": 63.8,
+          "current_account_pct_gdp": 5.4,
+          "fdi_inflows_2024": 42,
+          "stock_market": {
+            "index": "DAX",
+            "2024_return_pct": 18.9,
+            "pe_ratio": 14.2,
+            "market_cap": 2280
+          },
+          "sector_gdp_breakdown": {
+            "services_pct": 68.8,
+            "industry_pct": 27.2,
+            "agriculture_pct": 0.8,
+            "government_pct": 3.2
+          },
+          "notes": "Germany entered technical recession in 2023-2024; manufacturing sector under pressure from high energy costs and weak export demand"
+        },
+        {
+          "country": "United Kingdom",
+          "iso_code": "GBR",
+          "gdp_2024": 3340,
+          "gdp_growth_2024_pct": 0.9,
+          "gdp_growth_2023_pct": 0.1,
+          "inflation_rate_2024_pct": 2.5,
+          "inflation_rate_2023_pct": 7.3,
+          "unemployment_rate_2024_pct": 4.4,
+          "central_bank_rate_pct": 4.75,
+          "10yr_gilt_yield_pct": 4.55,
+          "fiscal_deficit_pct_gdp": -4.5,
+          "public_debt_pct_gdp": 101.2,
+          "current_account_pct_gdp": -3.0,
+          "fdi_inflows_2024": 89,
+          "stock_market": {
+            "index": "FTSE 100",
+            "2024_return_pct": 5.7,
+            "pe_ratio": 11.2,
+            "market_cap": 2890
+          }
+        },
+        {
+          "country": "France",
+          "iso_code": "FRA",
+          "gdp_2024": 3130,
+          "gdp_growth_2024_pct": 1.1,
+          "gdp_growth_2023_pct": 0.9,
+          "inflation_rate_2024_pct": 2.3,
+          "inflation_rate_2023_pct": 5.7,
+          "unemployment_rate_2024_pct": 7.3,
+          "central_bank_rate_pct": 3.15,
+          "10yr_oat_yield_pct": 3.15,
+          "fiscal_deficit_pct_gdp": -5.3,
+          "public_debt_pct_gdp": 112.0,
+          "current_account_pct_gdp": -0.8,
+          "fdi_inflows_2024": 56
+        }
+      ]
+    },
+    {
+      "region_id": "APAC",
+      "region_name": "Asia-Pacific",
+      "countries": [
+        {
+          "country": "China",
+          "iso_code": "CHN",
+          "gdp_2024": 18800,
+          "gdp_growth_2024_pct": 4.9,
+          "gdp_growth_2023_pct": 5.2,
+          "inflation_rate_2024_pct": 0.2,
+          "inflation_rate_2023_pct": 0.2,
+          "unemployment_rate_2024_pct": 5.1,
+          "central_bank_rate_pct": 3.35,
+          "10yr_bond_yield_pct": 2.08,
+          "fiscal_deficit_pct_gdp": -5.6,
+          "public_debt_pct_gdp": 87.1,
+          "current_account_pct_gdp": 1.5,
+          "fdi_inflows_2024": 163,
+          "stock_market": {
+            "index": "CSI 300",
+            "2024_return_pct": 14.7,
+            "pe_ratio": 12.1,
+            "market_cap": 8200
+          },
+          "tech_sector": {
+            "market_size_bn": 980,
+            "ai_patent_filings_2024": 38400,
+            "cloud_providers": ["Alibaba Cloud", "Tencent Cloud", "Huawei Cloud", "Baidu AI Cloud"],
+            "semiconductor_investment_bn": 43
+          }
+        },
+        {
+          "country": "Japan",
+          "iso_code": "JPN",
+          "gdp_2024": 4200,
+          "gdp_growth_2024_pct": 0.5,
+          "gdp_growth_2023_pct": 1.9,
+          "inflation_rate_2024_pct": 2.7,
+          "inflation_rate_2023_pct": 3.3,
+          "unemployment_rate_2024_pct": 2.5,
+          "central_bank_rate_pct": 0.25,
+          "10yr_bond_yield_pct": 1.05,
+          "fiscal_deficit_pct_gdp": -5.2,
+          "public_debt_pct_gdp": 255.3,
+          "current_account_pct_gdp": 3.5,
+          "fdi_inflows_2024": 28,
+          "notes": "Bank of Japan ended negative interest rate policy in March 2024; yen depreciation a persistent concern"
+        },
+        {
+          "country": "India",
+          "iso_code": "IND",
+          "gdp_2024": 3900,
+          "gdp_growth_2024_pct": 6.8,
+          "gdp_growth_2023_pct": 7.2,
+          "inflation_rate_2024_pct": 5.4,
+          "inflation_rate_2023_pct": 5.65,
+          "unemployment_rate_2024_pct": 7.8,
+          "central_bank_rate_pct": 6.50,
+          "10yr_bond_yield_pct": 6.99,
+          "fiscal_deficit_pct_gdp": -5.1,
+          "public_debt_pct_gdp": 83.0,
+          "current_account_pct_gdp": -1.1,
+          "fdi_inflows_2024": 71,
+          "stock_market": {
+            "index": "Nifty 50",
+            "2024_return_pct": 8.8,
+            "pe_ratio": 20.1,
+            "market_cap": 4100
+          },
+          "tech_sector": {
+            "it_exports_bn": 254,
+            "software_services_growth_pct": 6.4,
+            "ai_startup_funding_2024_bn": 4.2,
+            "talent_pool_engineers": 5200000
+          }
+        },
+        {
+          "country": "Australia",
+          "iso_code": "AUS",
+          "gdp_2024": 1790,
+          "gdp_growth_2024_pct": 1.5,
+          "gdp_growth_2023_pct": 2.0,
+          "inflation_rate_2024_pct": 3.5,
+          "inflation_rate_2023_pct": 5.4,
+          "unemployment_rate_2024_pct": 4.1,
+          "central_bank_rate_pct": 4.35,
+          "10yr_bond_yield_pct": 4.52,
+          "fiscal_deficit_pct_gdp": -0.1,
+          "public_debt_pct_gdp": 36.9,
+          "current_account_pct_gdp": -2.2,
+          "fdi_inflows_2024": 37
+        }
+      ]
+    }
+  ],
+  "global_aggregates": {
+    "world_gdp_2024": 109200,
+    "world_gdp_growth_2024_pct": 3.1,
+    "world_gdp_growth_2023_pct": 3.0,
+    "global_inflation_avg_pct": 5.8,
+    "global_trade_volume_growth_pct": 3.3,
+    "global_fdi_flows_2024": 1540,
+    "global_tech_spending_2024_bn": 5100,
+    "global_ai_market_size_2024_bn": 184,
+    "global_ai_market_growth_pct": 36.8,
+    "global_cloud_market_2024_bn": 680,
+    "global_cloud_market_growth_pct": 21.2
+  },
+  "interest_rate_environment": {
+    "note": "2024 marked the beginning of rate-cutting cycles in major economies after inflation peaked in 2022-2023",
+    "fed_rate_cuts_2024": 3,
+    "ecb_rate_cuts_2024": 4,
+    "boe_rate_cuts_2024": 2,
+    "consensus_2025_outlook": "Further gradual easing expected if inflation remains contained; labor markets remain resilient"
+  },
+  "key_themes_2024": [
+    "AI infrastructure investment boom driven by LLM adoption across enterprise segments",
+    "Divergence between US economic resilience and European stagnation",
+    "Emerging market debt pressures amid high-for-long rate environment",
+    "Energy transition investments accelerating: $1.8T in clean energy globally",
+    "Geopolitical fragmentation affecting global supply chains and FDI patterns",
+    "China property sector continued deleveraging impacting domestic consumption"
+  ]
+}
